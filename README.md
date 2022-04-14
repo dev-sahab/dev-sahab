@@ -43,7 +43,7 @@
 </p> -->
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakarshteja&" alt="aakarshteja_stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shb-services&show_icons=true" alt="shb-services" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shb-services&layout=compact" alt="shb-services" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shb-services&" alt="shb-services"/>
 </p>
