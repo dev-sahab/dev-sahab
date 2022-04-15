@@ -39,5 +39,5 @@
 <p align="center"> 
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=shb-services&show_icons=true&theme=tokyonight" alt="shb-services" /> 
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shb-services&layout=compact&theme=tokyonight" alt="shb-services" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shb-services&&theme=tokyonight" alt="shb-services"/>
+  <img height="180em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shb-services&&theme=tokyonight" alt="shb-services"/>
 </p>
