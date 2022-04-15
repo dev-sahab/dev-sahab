@@ -37,7 +37,11 @@
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shb-services&&theme=xcode)](https://github.com/shb-services)
 
 <p align="center"> 
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=shb-services&show_icons=true&theme=tokyonight" alt="shb-services" /> 
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shb-services&layout=compact&theme=tokyonight" alt="shb-services" />
+  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=shb-services&show_icons=true&theme=tokyonight" alt="shb-services" /> 
+  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shb-services&layout=compact&theme=tokyonight" alt="shb-services" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shb-services&&theme=tokyonight" alt="shb-services"/>
+</p>
+
+<p align="center">
+  <img width='800' src="https://github.com/shb-services/shb-services/blob/main/github-contribution-grid-snake.svg" alt="shb-services" />
 </p>
