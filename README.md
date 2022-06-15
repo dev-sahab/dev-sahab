@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 
-<p align="right"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shb-services&label=Profile%20views&color=0e75b6&style=flat" alt="shb-services" /> </p>
