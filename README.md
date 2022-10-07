@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **frshahab.me@gmail.com**
 
-- ⚡ Fun fact **I am working with fun**
+- ⚡ Fun fact **Always work with fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
