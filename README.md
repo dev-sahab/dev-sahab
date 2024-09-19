@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://frshahab.me](https://frshahab.me)
+- 👨‍💻 All of my projects are available at [https://developersahab.xyz](https://developersahab.xyz)
 
 - 💬 Ask me about **Front-End Development, WordPress Web Development**
 
