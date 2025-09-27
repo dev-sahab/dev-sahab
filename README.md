@@ -2,6 +2,7 @@
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=550%&height=70&duration=3500&lines=Hi+There!+%F0%9F%91%8B+I%27m+Sahab+Uddin!;' alt='Sahab Uddin'></h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<p align="center">Helping Businesses Grow with High-Converting Website Design | 300+ Satisfied Clients | Full-Stack Web Developer | WordPress Developer | Elementor & JetEngine Expert | PHP, JavaScript, & E-Commerce Development</p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
