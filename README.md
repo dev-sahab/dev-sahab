@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/dev-sahab/dev-sahab/blob/main/Sahab%20uddin%20-%20Banner.jpg)](https://sahabuddin.me)
+[![MasterHead](https://github.com/dev-sahab/dev-sahab/blob/main/Sahab%20uddin%20-%20Banner.jpg)](https://shahabweb.vercel.app)
 
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=550%&height=70&duration=3500&lines=Hi+There!+%F0%9F%91%8B+I%27m+Sahab+Uddin!;' alt='Sahab Uddin'></h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
-<p align="center">Helping Businesses Grow with High-Converting Website Design | 300+ Satisfied Clients | Full-Stack Web Developer | WordPress Developer | Elementor & JetEngine Expert | PHP, JavaScript, & E-Commerce Development</p>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<p align="center">Building high-performing websites and scalable web solutions with WordPress, Webflow, React, and Next.js | JavaScript & PHP | CMS & E-Commerce Development</p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
@@ -10,17 +10,20 @@
 
 <p align="left"> <a href="https://x.com/mdsahab_mi" target="blank"><img src="https://img.shields.io/twitter/follow/mdsahab_mi?logo=x&style=for-the-badge" alt="mdsahab_mi" /></a> </p>
 
-- 🔭 I’m currently working as a **WordPress Developer**
+- 🔭 I’m currently working as a **Professional CMS Developer**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently exploring **WordPress Plugin Development & Custom WordPress Solutions**, with plans to dive deeper into **React, Next.js & MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://sahabuddin.me](https://sahabuddin.me)
+- 👨‍💻 I build **WordPress, Webflow, React & custom web solutions**
 
-- 💬 Ask me about **WordPress Web Development, Theme & Plugin Development, Front-End Development**
+- 💬 Ask me about **WordPress, Webflow, CMS Development, Theme & Plugin Development, Front-End Development**
 
-- 📫 How to reach me **contact@sahabuddin.me**
+- 🚀 Explore my projects at **[shahabweb.vercel.app](https://shahabweb.vercel.app)**
 
-- ⚡ Fun fact **Always work with fun**
+- 📫 Reach me at **[mdshahab.bc@gmail.com](mailto:mdshahab.bc@gmail.com)**
+
+- ⚡ Fun fact: **I enjoy solving problems and learning new technologies**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,13 +55,14 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="illustrator" width="40" height="40"/> </a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+      <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/dev-sahab/dev-sahab/blob/main/framer.png" alt="illustrator" width="40" height="40"/> </a>
+       <a href="https://webflow.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dev-sahab/dev-sahab/blob/main/webflow.png" alt="illustrator" width="40" height="40"/> </a>
    </p>
 
-[![Sahab's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dev-sahab&&theme=xcode)](https://github.com/dev-sahab)
+[![Sahab's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sahab&theme=xcode)](https://github.com/dev-sahab)
 
 <p align="center"> 
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=dev-sahab&show_icons=true&theme=tokyonight" alt="dev-sahab" /> 
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sahab&layout=compact&theme=tokyonight" alt="dev-sahab" />
+  <img height="180em" width="420" src="https://ghstats.dev/api/card?username=dev-sahab&theme=tokyonight&show_icons=true" alt="dev-sahab" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sahab&&theme=tokyonight" alt="dev-sahab"/>
 </p>
 
